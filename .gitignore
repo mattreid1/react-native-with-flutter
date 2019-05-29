@@ -1,1 +1,8 @@
+.vscode/
+
 src/node_modules
+src/android/.settings/
+src/android/.project
+src/android/app/.project
+src/android/app/.classpath
+src/android/app/.settings/
